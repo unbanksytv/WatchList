@@ -104,7 +104,7 @@ const trendingData3 = [
     <div className='text-white'>
         <div className={styles.trendingWrapper}>
             <div className='flex justify-between'>
-                <h1 className={styles.h1}>Todays Cryptocurrency Prices by Hawk-Market Cap</h1>
+                <h1 className={styles.h1}>Todays Ranking by Market Cap</h1>
                 
                 <div className='flex mr-10'>
                     <p className='text-gray-400'>Highlights &nbsp;</p>

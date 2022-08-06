@@ -4,7 +4,7 @@ import { CoinHawkProvider } from '../context/context'
 
 function MyApp({ Component, pageProps }) {
   return (
-  <MoralisProvider serverUrl='https://zci3phowgocu.usemoralis.com:2053/server' appId='ny6mOqAHDpLhOT2c0dGF5KCt1qZovz50zTzhaX4n'>
+  <MoralisProvider serverUrl='https://3oa9fiq65tsf.usemoralis.com:2053/server' appId='LyRGmHA5fdpucYf6RRXR2s8uB5Kl4sILd2G0GP9y'>
       <CoinHawkProvider>
         <Component {...pageProps} />
       </CoinHawkProvider>

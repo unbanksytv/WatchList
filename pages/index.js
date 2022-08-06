@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className='min-h-screen'>
       <Head>
-      <title>CoinHawk Market Cap</title>
+      <title>Top 33 Market Cap</title>
       </Head>
      <Header/>
      <SwapCryptoModal/>
